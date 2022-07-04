@@ -25,7 +25,8 @@ body{
     text-align: center;
     font-size: 5rem;
     color: white; 
-    left: 37%;
+    left: 30%;
+    top: 15%;
     font-weight: 600;
     text-shadow: 10px 10px 10px rgb(5, 5, 36);
 }
