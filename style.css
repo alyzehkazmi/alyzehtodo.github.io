@@ -102,13 +102,34 @@ body{
     #backcover p{
         font-size: 4rem;
         color: white; 
-        left: 25%;
-        top: 10%;
+        left: 33%;
+        top: 15%;
         font-weight: 700;
         text-shadow: 10px 10px 10px rgb(5, 5, 36);
     }
     #backcover img{
         width: 100%;
         height: 100%;
-    }   
+
+    }
+    #backcover input{
+        left: 18%;
+        width: 65%;
+        top: 30%;
+        font-size: 1rem;
+    }
+    #backcover button{
+        top: 30%;
+        left: 78.4%;
+        height: 3.4rem;
+
+    }
+    #task{
+        width: 66.5%;
+        left: 18%;
+    }
+    #tasks ul li{
+        height: 1rem;
+        font-size: 1.5rem;
+    }
 }
