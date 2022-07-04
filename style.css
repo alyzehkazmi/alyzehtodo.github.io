@@ -26,7 +26,7 @@ body{
     font-size: 8rem;
     color: white; 
     left: 37%;
-    font-weight: 700;
+    font-weight: 600;
     text-shadow: 10px 10px 10px rgb(5, 5, 36);
 }
 
@@ -34,7 +34,7 @@ body{
 
 #backcover input{
     left: 30%;
-    top: 25%;
+    top: 29%;
     width: 37%;
     height: 3rem;
     padding-left: 1rem;
@@ -48,7 +48,7 @@ body{
     z-index: 2;
     height: 3.1rem;
     width: 3rem;
-    top: 18%;
+     top: 29%;
     left: 65.8%;
     background-color: rgb(41, 41, 180);
     color: white;
@@ -63,7 +63,7 @@ body{
     z-index: 1;
     top: 30%;
     left: 30%;
-    width: 38%;
+    width: 40%;
     min-height: 50vh;
     background-color: white;
     box-shadow: 0px 0px 20px 0px rgba(143, 140, 140, 0.89);
