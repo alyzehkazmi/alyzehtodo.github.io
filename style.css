@@ -23,7 +23,7 @@ body{
 
 #backcover p{
     text-align: center;
-    font-size: 8rem;
+    font-size: 5rem;
     color: white; 
     left: 37%;
     font-weight: 600;
@@ -34,7 +34,7 @@ body{
 
 #backcover input{
     left: 30%;
-    top: 30%;
+    top: 35%;
     width: 37%;
     height: 3rem;
     padding-left: 1rem;
@@ -48,7 +48,7 @@ body{
     z-index: 2;
     height: 3.1rem;
     width: 3rem;
-    top: 30%;
+    top: 35%;
     left: 65.8%;
     background-color: rgb(41, 41, 180);
     color: white;
@@ -61,9 +61,9 @@ body{
 #tasks{
     position: absolute;
     z-index: 1;
-    top: 45%;
+    top: 49%;
     left: 30%;
-    width: 40%;
+    width: 38%;
     min-height: 50vh;
     background-color: white;
     box-shadow: 0px 0px 20px 0px rgba(143, 140, 140, 0.89);
