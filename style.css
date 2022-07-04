@@ -23,9 +23,9 @@ body{
 
 #backcover p{
     text-align: center;
-    font-size: 5rem;
+    font-size: 8rem;
     color: white; 
-    left: 35%;
+    left: 38%;
     top: 15%;
     font-weight: 600;
     text-shadow: 10px 10px 10px rgb(5, 5, 36);
@@ -50,7 +50,7 @@ body{
     height: 3.2rem;
     width: 3rem;
     top: 38%;
-    left: 65%;
+    left: 65.8%;
     background-color: rgb(41, 41, 180);
     color: white;
     border: none;
