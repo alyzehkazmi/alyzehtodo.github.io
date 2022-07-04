@@ -47,10 +47,10 @@ body{
 
 #backcover button{
     z-index: 2;
-    height: 3.1rem;
+    height: 3.2rem;
     width: 3rem;
     top: 38%;
-    left: 65.8%;
+    left: 65%;
     background-color: rgb(41, 41, 180);
     color: white;
     border: none;
